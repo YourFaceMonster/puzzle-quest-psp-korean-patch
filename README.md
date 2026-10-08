@@ -50,17 +50,15 @@
 
 ## 🖼️ 스크린샷
 
-게임 화면과 한국어 적용 화면을 보여주는 공간입니다. 실제 캡처 이미지를 저장소에 추가하면 아래 예시 경로를 사용할 수 있습니다.
+일본판 PSP 게임에 한국어 패치를 적용한 화면입니다.
 
-<!--
-실제 캡처 파일을 assets/screenshots/ 폴더에 올린 후 다음 주석을 해제하세요.
-
-| 한국어 메뉴 | 한국어 대사 |
+| 인트로 | 캐릭터 생성 |
 | :---: | :---: |
-| ![PSP 한국어 메뉴](assets/screenshots/psp-menu.png) | ![PSP 한국어 대사](assets/screenshots/psp-dialogue.png) |
--->
-
-> 현재는 실제 스크린샷 파일이 확인되지 않아 깨진 이미지 대신 자리만 마련했습니다.
+| ![PSP 한국어 패치 인트로 화면](assets/screenshots/ULJS00114_00000.jpg) | ![PSP 한국어 패치 캐릭터 생성 화면](assets/screenshots/ULJS00114_00001.jpg) |
+| 대사 | 마법 아이템 |
+| ![PSP 한국어 패치 대사 화면](assets/screenshots/ULJS00114_00002.jpg) | ![PSP 한국어 패치 마법 아이템 화면](assets/screenshots/ULJS00114_00003.jpg) |
+| 전투 | |
+| ![PSP 한국어 패치 전투 화면](assets/screenshots/ULJS00114_00004.jpg) | |
 
 ## 📦 패치 적용 방법
 
